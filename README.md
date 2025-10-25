@@ -29,8 +29,6 @@
 ---
 ## Pinned projects (live cards)
 
-These cards pull information automatically for the specified repos (replace `repo=` values with any repo you want pinned):
-
 [![Portfolio pinned card](https://github-readme-stats.vercel.app/api/pin/?username=MASMELAM&repo=Portfolio&theme=radical)](https://github.com/MASMELAM/Portfolio)
 [![cafe pinned card](https://github-readme-stats.vercel.app/api/pin/?username=MASMELAM&repo=cafe&theme=radical)](https://github.com/MASMELAM/cafe)
 [![MASMELAM pinned card](https://github-readme-stats.vercel.app/api/pin/?username=MASMELAM&repo=MASMELAM&theme=radical)](https://github.com/MASMELAM/MASMELAM)
