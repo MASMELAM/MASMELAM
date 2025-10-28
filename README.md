@@ -69,9 +69,6 @@ Contribution graph:
 
 ![Contribution chart](https://ghchart.rshah.org/MASMELAM)
 
-Activity graph (alternate):
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MASMELAM&theme=react-dark)
 
 
 ## Events
