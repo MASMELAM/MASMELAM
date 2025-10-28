@@ -23,38 +23,62 @@
 
 ## Skills & Tech
 
-- Languages & frameworks: Python, C, HTML
+- Languages & frameworks: Python, C, HTML, CSS
 - Tools: Git, GitHub Pages 
 
 ---
-## Pinned projects (live cards)
+## Featured Projects
 
-[![Portfolio pinned card](https://github-readme-stats.vercel.app/api/pin/?username=MASMELAM&repo=Portfolio&theme=radical)](https://github.com/MASMELAM/Portfolio)
-[![cafe pinned card](https://github-readme-stats.vercel.app/api/pin/?username=MASMELAM&repo=cafe&theme=radical)](https://github.com/MASMELAM/cafe)
-[![MASMELAM pinned card](https://github-readme-stats.vercel.app/api/pin/?username=MASMELAM&repo=MASMELAM&theme=radical)](https://github.com/MASMELAM/MASMELAM)
+
+### EduGenie (KnightHacks 2025) [![Stars](https://img.shields.io/github/stars/MASMELAM/EduGenie?style=flat-square)](https://github.com/MASMELAM/EduGenie)
+
+[![EduGenie Card](https://github-readme-stats.vercel.app/api/pin/?username=MASMELAM&repo=EduGenie&theme=tokyonight)](https://github.com/MASMELAM/EduGenie)
+
+Educational project developed at KnightHacks 2025 featuring Google Gemini API. Team project focused on helping teachers make lessons.
+[View on Devpost](https://devpost.com/software/edugenie-h7ga6v)
+
+### Portfolio [![Stars](https://img.shields.io/github/stars/MASMELAM/Portfolio?style=flat-square)](https://github.com/MASMELAM/Portfolio)
+
+[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=MASMELAM&repo=Portfolio&theme=tokyonight)](https://github.com/MASMELAM/Portfolio)
+
+Personal portfolio website showcasing my projects and skills. Built with HTML, CSS, and hosted on GitHub Pages at [masmelam.github.io/Portfolio](https://masmelam.github.io/Portfolio/).
+
+### Cat Cafe [![Stars](https://img.shields.io/github/stars/MASMELAM/cafe?style=flat-square)](https://github.com/MASMELAM/cafe)
+
+[![Cafe Card](https://github-readme-stats.vercel.app/api/pin/?username=MASMELAM&repo=cafe&theme=tokyonight)](https://github.com/MASMELAM/cafe)
+
+This is a project that I am mentoring in Girls Who Code. This web application will be featuring a cat cafe! It is in the process of being built with GameMaker.
+
+
+
+
+### MASMELAM [![Stars](https://img.shields.io/github/stars/MASMELAM/MASMELAM?style=flat-square)](https://github.com/MASMELAM/MASMELAM)
+
+[![Profile Card](https://github-readme-stats.vercel.app/api/pin/?username=MASMELAM&repo=MASMELAM&theme=tokyonight)](https://github.com/MASMELAM/MASMELAM)
+
+My GitHub profile repository with an enhanced README, project documentation, and hackathon updates.
 
 ---
 
 ## Projects — highlights
 
-### 1) Portfolio
+### 1) EduGenie
+
+- Repo: [EduGenie](https://github.com/MASMELAM/EduGenie) | [Original Repo](https://github.com/luisaaiko/EduGenie2.0)
+- Tech: Frontend (includes me) - HTML, CSS. Backend: JavaScript, React, Node.js, Express, and Google Gemini API
+- Summary: Developed at KnightHacks 2025 (Oct 24-26), EduGenie is an educational project that enhances learning experiences using AI. [View project on Devpost](https://devpost.com/software/edugenie-h7ga6v).
+
+### 2) Portfolio
 
 - Repo: [Portfolio](https://github.com/MASMELAM/Portfolio)
 - Tech: HTML, CSS, JS
-- Info: The site showcases personal projects and contact info. Built with static HTML and hosted on GitHub Pages at `masmelam.github.io/Portfolio`.
-
-### 2) cafe
-
-- Repo: [cafe](https://github.com/MASMELAM/cafe)
-- Tech: HTML, (add CSS/JS if used)
-- Info: A small web project demonstrating UI/layout and mentoring collaboration.
-fix
+- Summary: The site showcases personal projects and contact info. Built with static HTML and hosted on GitHub Pages at `masmelam.github.io/Portfolio`.
 
 ### 3) MASMELAM (this repo)
 
 - Repo: [MASMELAM](https://github.com/MASMELAM/MASMELAM)
 - Tech: README-driven portfolio
-- Info: This README is the central hub — it lists projects, events, and contact info.
+- Summary: This README is the central hub — it lists projects, events, and contact info.
 
 
 ---
@@ -72,8 +96,8 @@ Contribution graph:
 
 
 ## Events
-- Attending KnightHacks — Oct 24–26, 2025. I'll be working on hackathon projects during the event and posting updates to this repo and my GitHub. If you'd like me to add a live updates section or a project write-up after the event, tell me which projects to highlight.
-- Attended ShellHacks — Sep 26-28, 2025. I attended workshops, networked, and learned the basics of github and unity.
+- Attended KnightHacks — Oct 24–26, 2025. I developed a website called EduGenie with my team. GitHub: https://github.com/luisaaiko/EduGenie2.0. Devpost: https://devpost.com/software/edugenie-h7ga6v.
+- Attended ShellHacks — Sep 26-28, 2025. I attended workshops, networked, and learned the basics of github and was introduced to unity.
 
 ## Contact
 
